@@ -104,3 +104,7 @@ pandas
 
 # Apache Kafka Python client
 kafka-python
+
+# Apache Kafka Python client (six was removed so add it separately)
+kafka-python
+six
